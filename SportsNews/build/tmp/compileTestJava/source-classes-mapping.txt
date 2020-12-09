@@ -1,0 +1,2 @@
+com/incrowd/SportsNews/SportsNewsApplicationTests.java
+ com.incrowd.SportsNews.SportsNewsApplicationTests
