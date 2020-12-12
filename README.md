@@ -16,5 +16,3 @@ example: http://localhost:8080/allArticles
 -Article By ID
 append "/articleById/" followed by id you'd like to retrieve
 example: http://localhost:8080/articleById/534259
-
-Although I've added a UUID to each entry for robustness, the retrieval of each article is done by the NewsArticleID as it's more reader friendly
